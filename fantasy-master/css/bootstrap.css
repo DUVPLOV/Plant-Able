@@ -1134,9 +1134,9 @@ pre code {
         max-width: 41.666667%
     }
     .col-md-6 {
-        -ms-flex: 0 0 50%;
-        flex: 0 0 50%;
-        max-width: 50%
+        -ms-flex: 0 0 0;
+        flex: 0 0 0;
+        max-width: 50%;
     }
     .col-md-7 {
         -ms-flex: 0 0 58.333333%;
@@ -1247,7 +1247,7 @@ pre code {
         margin-left: 41.666667%
     }
     .offset-md-6 {
-        margin-left: 50%
+       
     }
     .offset-md-7 {
         margin-left: 58.333333%
